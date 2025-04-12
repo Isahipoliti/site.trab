@@ -50,6 +50,8 @@ section{
     background-color: rgb(12, 34, 53);
     padding: 20px;
     display: inline-block;
+    width: 300px;
+    margin: 10px 10px;
  }
  .descricao{
     padding: 10px 0;
