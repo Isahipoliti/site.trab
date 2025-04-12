@@ -54,10 +54,10 @@ section{
     margin: 10px 10px;
  }
  .descricao{
-    padding: 10px 0;
+   padding: 10px 0;
     font-size: 20px;
     font-weight: bold;
-    text-align: center;
+    text-align: center; 
     color: rgb(117, 117, 117);
  }
  a{
